@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngJobMgmt", "EngJobMgmt\EngJobMgmt.csproj", "{C74FBC91-CD47-4804-B133-0FABF2B63457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngJobMgmt.ApiService", "EngJobMgmt.ApiService\EngJobMgmt.ApiService.csproj", "{4DDBB85C-3A9F-4222-8D58-E7F23E833D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74FBC91-CD47-4804-B133-0FABF2B63457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74FBC91-CD47-4804-B133-0FABF2B63457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74FBC91-CD47-4804-B133-0FABF2B63457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74FBC91-CD47-4804-B133-0FABF2B63457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDBB85C-3A9F-4222-8D58-E7F23E833D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDBB85C-3A9F-4222-8D58-E7F23E833D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDBB85C-3A9F-4222-8D58-E7F23E833D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDBB85C-3A9F-4222-8D58-E7F23E833D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA7F0B86-59F8-4C77-9289-B6DC480AF97C}
+	EndGlobalSection
+EndGlobal
